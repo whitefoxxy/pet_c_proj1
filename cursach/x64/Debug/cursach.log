@@ -1,0 +1,4 @@
+﻿  functions.c
+C:\Users\User\source\repos\cursach\cursach\functions.c(69,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\cursach\cursach\functions.c(118,7): warning C4101: str: неиспользованная локальная переменная
+  cursach.vcxproj -> C:\Users\User\source\repos\cursach\x64\Debug\cursach.exe
